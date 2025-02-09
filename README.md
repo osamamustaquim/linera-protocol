@@ -6,6 +6,7 @@
 [![Build Status for DynamoDB](https://github.com/linera-io/linera-protocol/actions/workflows/dynamodb.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/dynamodb.yml)
 <!-- [![Build Status for Kubernetes](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml) -->
 
+<!--just adding line -->
 [Linera](https://linera.io) is a decentralized blockchain infrastructure designed for highly scalable,
 low-latency Web3 applications.
 
